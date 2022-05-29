@@ -1,0 +1,77 @@
+
+.EmptyContainer{
+    border: 1px solid black;
+    height: 350px;
+    width: 70%;
+    float:left;
+    padding: 20px;
+    background-color: rgb(253, 248, 241);
+  }
+   .balloon-container{
+    float: left;
+    margin-left: 30px;
+    background-color: rgb(253, 248, 241);
+
+  }
+  .firstCircle , .secondCircle , .thirdCircle, .fourthCircle , .fifthCircle{
+      margin: 10px;
+    width: 70px;
+    height: 80px;
+    border-radius: 100%;
+  }
+  
+  .firstCircle{
+
+    background-color: rgb(250, 194, 194);
+    border: 2px solid black;
+  }
+  
+  .secondCircle{
+    background-color: rgb(147, 247, 117);
+    border: 2px solid black;
+  }
+  
+  .thirdCircle{
+    background-color: rgb(182, 97, 196);
+    border: 2px solid black;
+  }
+  
+  .fourthCircle{
+    background-color: skyblue;
+    border: 2px solid black;
+  }
+  
+  .fifthCircle{
+    background-color: rgb(209, 250, 112);
+    border: 2px solid black;
+  }
+  
+  .input-container{
+    padding: 10px;
+    /* margin-top: 50px; */
+    background-color: rgb(253, 248, 241);
+  }
+  
+  .input-container > input{
+    height: 30px;
+    margin: 10px;
+    text-align: center;
+    font-size: large;
+    /* border-style:ridge; */
+    border: 2px ridge black;
+  }
+  
+  .input-container > button{
+    background-color:#4970f0;
+    height: 50px;
+    border: none;
+
+    border-radius: 20%;
+    cursor: pointer;
+    color: rgb(215, 233, 249);
+    font-size: large;
+  }
+  
+  .input-container > button:active {
+    transform: translateY(3px);
+  }
