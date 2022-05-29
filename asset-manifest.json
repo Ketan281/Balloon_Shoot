@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Balloon_Shoot/static/css/main.d642358d.css",
+    "main.js": "/Balloon_Shoot/static/js/main.ca04aaeb.js",
+    "index.html": "/Balloon_Shoot/index.html",
+    "main.d642358d.css.map": "/Balloon_Shoot/static/css/main.d642358d.css.map",
+    "main.ca04aaeb.js.map": "/Balloon_Shoot/static/js/main.ca04aaeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d642358d.css",
+    "static/js/main.ca04aaeb.js"
+  ]
+}
